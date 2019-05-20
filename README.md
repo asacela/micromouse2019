@@ -1,6 +1,9 @@
 # Micromouse 2019
 Micromouse Repository
 
+# Install Git With Windows
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
+
 # Download Arduino Application
 https://www.arduino.cc/en/Main/Software
 
